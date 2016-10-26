@@ -1,0 +1,10 @@
+p {background-color: C2f670;
+width: 200px;
+height: 200px;}
+#border1 {border: double black medium;}
+#border2 {overflow: scroll;}
+#border3 {padding: 2em;}
+#border4 {padding: 2em; border: 4px solid red; }
+#border5 {margin: 2em; border: 4px solid red;}
+#border6 {padding: 1em; padding-left: 6em; border: 4px dashed; margin: 1em 6em;}
+#border7 {padding: 1em 50px; border: 2px solid teal; margin: 0 auto;}
